@@ -5,4 +5,4 @@ Bubble Sort,
 Merge Sort,
 Insertion Sort
 
-Each sorting method operates on an array of integers and is rigorously tested to verify accuracy and efficiency.
+Each sorting method operates on an array of integers and is rigorously tested to verify accuracy and efficiency. 
